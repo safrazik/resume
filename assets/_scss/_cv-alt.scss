@@ -1,0 +1,91 @@
+$left-width: 11rem;
+// $horizontal-offset: 20px;
+
+@mixin on-left(){
+	position: absolute;
+	left: $padding-base;
+	padding: 0;
+	width: $left-width;
+}
+
+@mixin on-right(){
+	position: relative;
+	left: $left-width;
+	padding-right: $left-width;
+}
+
+@mixin full-length(){
+	// left: 0;
+	// right: 0;
+	// padding: 0;
+	position: static;
+	padding-right: 0;
+}
+
+body {
+	overflow-x: hidden;
+	$container-width: $container-breakpoint;
+	max-width: $container-width;
+	width: 100%;
+	margin: auto;
+	position: relative;
+
+	// padding: 0;
+
+	> * {
+		@include on-right();
+	}
+
+	img {
+		position: absolute;
+		left: 0;
+		width: 5rem;
+	}
+
+	p img {
+		// margin: 0;
+		left: -1 * $left-width;
+	}
+
+	h1, h4 {
+		left: 6rem;
+	}
+
+	$quote-width: 50%;
+
+	h4 + p, h4 + p + p, h4 + p + p + p, h4 + p + p + p + p, h4 + p + p + p + p + p, blockquote + p,
+	h1 + p, h1 + p + p, h1 + p + p + p, h1 + p + p + p + p, h1 + p + p + p + p + p {
+		@include full-length();
+		width: 100 - $quote-width;
+		float: left;
+		padding-right: 1rem;
+	}
+
+	blockquote {
+		@include full-length();
+		width: $quote-width;
+		float: left;
+	}
+
+	hr {
+		@include full-length();
+	}
+
+	hr + .highlighter-rouge, hr + .highlight, hr + pre {
+		@include full-length();
+	}
+
+
+	h6 {
+		@include on-left();
+	}
+
+	h5 {
+		margin-bottom: 0.75rem;
+		line-height: 1.5rem;
+	}
+	h5 + h6 {
+		margin-top: -2.25rem; /* h5 line-height + h5 margin-bottom */
+	}
+
+}

@@ -1,0 +1,135 @@
+// .cv-container {
+body { // support any markdown processor
+
+  // color: #545454;
+  color: #000;
+  font-weight: inherit;
+
+  // blue: #2e73bb;
+  // violet: #9e4ee0;
+  // red: #e30005;
+
+  * {
+    // font-size: 12pt;
+    font-size: 14px;
+    // font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  }
+
+  // a {
+  //   color: darken($primary-color, 10%);
+  //   &:hover {
+  //     color: $primary-color;
+  //   }
+  // }
+
+  blockquote a {
+    // font-weight: bold;
+    color: darken($primary-color, 10%);
+    &:hover {
+      color: $primary-color;
+    }
+  }
+
+  $secondary-color: #747474;
+  $secondary-color: #03A9F4;
+
+  $job-title-color: #000;
+
+  $sub-title-color: red;
+
+  @mixin jobtitle(){
+    font-weight: bold;
+    color: #000;
+    // color: #777;
+  }
+
+  @mixin subtitle(){
+    // color: $primary-color;
+    // color: $secondary-color;
+    // color: #e30005;
+    color: #9e4ee0;
+    color: #2e73bb;
+    // font-weight: normal;
+  }
+
+  a {
+    // color: #1a0dab; // Google link blue
+    // color: #006621; // Google address green
+    &:visited {
+      // color: #9e4ee0;
+      // color: #609; // Google visited purple
+    }
+  }
+
+  hr {
+    // border: 0;
+    border-color: transparent;
+  }
+
+  h1, h4 {
+    // position: static;
+  }
+
+  /* name */
+  h1 {
+    // color: $primary-color;
+    // color: #9e4ee0;
+    // color: #555;
+    // font-weight: normal;
+    // margin-bottom: 1rem;
+  }
+
+
+  h4, h6 {
+    // color: $primary-color;
+    // color: #747474;
+  }
+
+  h4 {
+    @include jobtitle();
+    font-weight: bold;
+    color: #9e4ee0;
+    // color: #D1977C;
+    color: #2e73bb;
+  }
+
+  /* year */
+  h5 {
+    @include jobtitle();
+  }
+  h6 {
+    @include subtitle();
+  }
+
+
+  /* Skills section */
+  h6 + ul {
+    $li-color-without-hash: "AAA";
+    list-style-image: 
+      url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 24 24"><path fill="none" d="M24 24H0V0h24v24z"/><circle fill="%23#{$li-color-without-hash}" cx="12" cy="12" r="8"/></svg>')
+      ;
+    li > p {
+    }
+  }
+
+
+  /* background bar */
+  hr + .highlighter-rouge, hr + .highlight, hr + pre {
+    // background: transparent;
+    // border: 0;
+    // padding-left: 0;
+    border-bottom: 5px solid #EAEAEA;
+    code {
+      // color: #000;
+    }
+    @media print,
+    (min-width: 736px) /* iphone 6 plus landscape */
+    {
+      // padding-left: 0;      
+    }
+    code {
+      // color: #000;
+    }
+  }
+
+}

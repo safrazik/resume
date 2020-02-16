@@ -1,0 +1,21 @@
+$font-name: "Arimo";
+// $font-name: "Asap";
+// $font-name: "Barlow"; //3+
+// $font-name: "Catamaran"; //3++
+// $font-name: "Catamaran"; //3++
+// $font-name: "Rubik"; //3+
+// $font-name: "Lora"; //3++
+// $font-name: "Lato"; //3+
+// $font-name: "Libre Baskerville"; //3+
+// $font-name: "Crimson Text"; //3+
+// $font-name: "Cormorant Garamond";
+// $font-name: "Muli";//3+
+// $font-name: "Montserrat";//3+
+
+$font-path: 'https://fonts.googleapis.com/css?family=#{$font-name}&display=swap" rel="stylesheet';
+
+@import url($font-path);
+
+body * {
+  font-family: $font-name, "CV-Font", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}

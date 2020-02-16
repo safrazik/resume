@@ -1,0 +1,259 @@
+$brand-primary: #007FFF;
+$brand-primary: #03A9F4;
+$primary-color: #03A9F4;
+$secondary-color: #7394CC;
+$screen-xs:                  480px;
+$screen-sm:                  768px;
+$screen-md:                  992px;
+$screen-lg:                  1024px;
+// $screen-lg:                  1200px;
+// $font-family-base:  "CV-Font", "OpenSans", "Helvetica Neue", Helvetica, Arial, sans-serif; // modified
+
+$padding-base: 1rem;
+$horizontal-offset: $padding-base * 1.5;
+$horizontal-offset: $padding-base * 0.75;
+
+
+$container-breakpoint: $screen-md;
+$container-breakpoint: $screen-lg;
+
+* {
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 14px;
+}
+
+
+@media (max-width: 736px) { /* iphone 6 plus landscape */
+}
+
+@media (max-width: $screen-xs) {
+}
+
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+// .cv-container {
+body { // support any markdown processor
+	padding: $padding-base;
+	max-width: $container-breakpoint;
+	margin: auto;
+
+	// reset
+	* {
+		font-family: $font-family-base;
+		// font-weight: normal;
+		margin: 0;
+		padding: 0;
+	}
+
+	strong {
+		font-weight: bold;
+		// color: #333;
+	}
+
+	em {
+		font-style: italic;
+	}
+
+	a {
+		text-decoration: none;
+		color: $primary-color;
+		&:hover {
+			color: darken($primary-color, 10%);
+			text-decoration: underline;
+		}
+	}
+
+	p, ul {
+		clear: both;
+	}
+	p {
+		margin-bottom: 0.75rem;
+		// text-align: justify;
+	}
+
+	ul {
+		padding-left: 1.5rem;
+		margin-bottom: 0.75rem;
+		// list-style-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='10' height='10'><linearGradient id='gradient'><stop offset='10%' stop-color='%23F00'/><stop offset='90%' stop-color='%23fcc'/> </linearGradient><rect fill='url(%23gradient)' x='0' y='0' width='100%' height='100%'/></svg>");
+		li {
+		}
+	}
+	// ul {
+	// 	list-style: none;
+	// 	padding-left: 0;
+	// 	li {
+	// 		position: relative;
+	// 		padding-left: 1.5rem;
+	// 		&::before {
+	// 			content: "•";
+	// 			color: $secondary-color;
+	// 			font-size: 1.5em;
+	// 			position: absolute;
+	// 			left: 0;
+	// 			top: 0;
+	// 		}
+	// 	}
+	// }
+
+	// ul {
+	// 	$dot-width: 4;
+	// 	$dot-radius: $dot-width/2;
+	// 	list-style-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" height="#{$dot-width}" width="#{$dot-width}"><circle cx="#{$dot-radius}" cy="#{$dot-radius}" r="#{$dot-radius}" fill="#{$secondary-color}" /></svg>');
+	// }
+
+	// ul {
+	// 	list-style-type: circle;
+	// }
+
+	// avatar
+	img {
+		width: 5rem;
+		width: 4.75rem;
+		border-radius: 10rem;
+		float: left;
+		margin-right: $padding-base;
+
+		// height: 5rem;
+		padding: 0.25rem;
+		// background: #7394CC;
+		// background: #EAEAEA;
+
+		// background: #F6F6F6;
+	}
+
+	p img {
+		margin-top: 0.35rem;
+	}
+
+	/* name */
+	h1 {
+		font-size: 1.5rem;
+		font-weight: bold;
+		margin: 0;
+		margin-top: 1.25rem;
+		margin-bottom: 0.35rem;
+		line-height: 1;
+	}
+
+	/* main title */
+	h4 {
+		color: #555;
+		font-size: 1.1rem;
+		margin: 0;
+		margin-bottom: 2rem;
+		line-height: 1;
+	}
+
+	// title, company
+	h5, h6 {
+		font-weight: bold;
+		font-size: 1rem;
+		line-height: 1.5rem;
+		margin: 0 0 0.75rem 0;
+	}
+
+
+	/* year */
+	h6 {
+		color: #777;
+	}
+
+	// h6 ~ h5, hr + h5 {
+	// 	float: left;
+	// }
+	// h5 + h6 {
+	// 	float: right;
+	// }
+
+	hr {
+		margin: $horizontal-offset 0;
+		border: 0;
+		border-bottom: 1px solid #CCC;
+		clear: both;
+	}
+
+	hr + .highlighter-rouge, hr + .highlight, hr + pre {
+		// background: #FFF;
+		background: #EEE;
+		background: #F6F6F6;
+		outline: 2px solid #FFF; /* hack to hide the other hr */
+		border-top: 0.5rem solid #FFF; /* hack to add extra margin */
+		border-bottom: 1px solid #AAA;
+		margin: -1*$horizontal-offset 0;
+		margin-bottom: 0;
+		padding: 0.75rem $padding-base;
+		code {
+			white-space: normal;
+			font-family: $font-family-base;
+			font-weight: bold;
+			font-size: 1rem;
+			color: #555;
+			// color: $brand-primary;
+		}
+	}
+
+	hr .highlighter-rouge pre, hr + .highlight pre {
+		margin: 0;
+	}
+
+	/* Skills section */
+	h6 + ul {
+		margin-bottom: 1rem;
+		li > p {
+			margin-bottom: 0.25rem;
+		}
+	}
+
+	@media (max-width: $container-breakpoint) {
+		hr, hr + .highlighter-rouge, hr + .highlight, hr + pre {
+			margin-left: -1*$padding-base;
+			margin-right: -1*$padding-base;
+		}
+	}
+	@media print {
+		// padding: 0;
+		hr, hr + .highlighter-rouge, hr + .highlight, hr + pre {
+			margin-left: 0;
+			margin-right: 0;
+		}
+	}
+
+	h4, h6 {
+		// color: $brand-primary;
+		// color: #03A9F4;
+		// color: #8BA8CF;
+		color: $secondary-color;
+	}
+
+	blockquote {
+		padding-left: 1rem;
+		// border-left: 1rem solid #EAEAEA;
+		border-left: 5px solid #EAEAEA;
+		color: #555;
+		// font-size: 0.75rem;
+		// font-size: 0.9rem;
+		margin-bottom: 0.75rem;
+		a {
+			color: #444;
+		}
+	}
+
+}
+
+// @media (min-width: $screen-md){
+// @media (min-width: 800px){
+@media (min-width: 736px){
+	// @import "cv-alt";
+}
+
+@media print,
+(min-width: 736px) /* iphone 6 plus landscape */
+{
+	// @import "cv-alt";
+}

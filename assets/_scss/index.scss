@@ -1,0 +1,44 @@
+@import "variables";
+@import "fonts";
+
+@import "normalize";
+
+body {
+	max-width: $container-breakpoint;
+	margin: auto;
+}
+
+.powered-by {
+    text-align: right;
+    margin-top: 2.5rem;
+}
+
+@import "cv";
+
+.email-link {}
+@media print,
+(min-width: 736px) /* iphone 6 plus landscape */
+{
+	@import "cv-alt";
+
+  .powered-by {
+    position: absolute;
+    right: 0;
+    top: 0;
+    left: auto;
+    bottom: auto;
+    width: auto;
+    padding: 0 1rem;
+  }
+}
+
+// @import "themes/vibrant";
+@import "themes/minimal";
+// @import "themes/dark";
+
+
+.print-enabled {
+	a {
+		color: inherit !important;
+	}
+}
