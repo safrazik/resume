@@ -59,3 +59,4 @@ sass:
 
 # include:
 #   - README.md
+theme: jekyll-theme-minimal
