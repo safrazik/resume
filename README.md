@@ -10,11 +10,11 @@ Safraz Razik
 **Inovative and dynamic** personality with 10 years of experience in both frontend and backend of various domains along with managing, mentoring and building tools for engineering teams and open source community.
 
 
->  Puttalam, Sri Lanka. GMT+5:30
+>  Puttalam, Sri Lanka. GMT+5:30 PST+12:30 CEST+3:30
 >
 >  Email: <safrazik@gmail.com> · Phone: [+94771188449](tel:+94771188449)
 >
-> Skype: safrazik · [Github](https://github.com/safrazik) · [Twitter](https://twitter.com/safrazik) · [Linked In](https://www.linkedin.com/in/safrazik) · [Upwork](https://www.upwork.com/freelancers/~01a4c4f6d0d586426f)
+> Skype: safrazik · [Github](https://github.com/safrazik) · [Twitter](https://twitter.com/safrazik) · [Linked In](https://www.linkedin.com/in/safrazik)
 
 
 ------------------------------------------
@@ -27,6 +27,8 @@ Safraz Razik
 #####   Founder, [Zetmel](https://zetmel.com)
 
 ######  July 2018 - Present
+
+- Developed [Rockplate](https://rockplate.github.io/) - [🤘] Next generation programming language for Email, SMS, Receipt, Invoice, HTML and other templates with built in Linter, official CodeMirror & VSCode IntelliSense extension, no dependencies, 5kb minified & gzipped, 100% code coverage.
 
 - Developed [Ocean.lk](https://ocean.lk) (E-Commerce website) - backend, fronted and branding including logo, colors and slogan.
 
