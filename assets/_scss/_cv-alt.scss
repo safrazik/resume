@@ -1,4 +1,4 @@
-$left-width: 11rem;
+// $left-width: 11rem;
 // $horizontal-offset: 20px;
 
 @mixin on-left(){
@@ -52,7 +52,8 @@ body {
 		left: 0; // without image
 	}
 
-	$quote-width: 50%;
+	// $quote-width: 50%; // with bio
+	$quote-width: 100%; // without bio
 
 	h4 + p, h4 + p + p, h4 + p + p + p, h4 + p + p + p + p, h4 + p + p + p + p + p, blockquote + p,
 	h1 + p, h1 + p + p, h1 + p + p + p, h1 + p + p + p + p, h1 + p + p + p + p + p {
