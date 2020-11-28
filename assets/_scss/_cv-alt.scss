@@ -48,7 +48,8 @@ body {
 	}
 
 	h1, h4 {
-		left: 6rem;
+		// left: 6rem; // with image
+		left: 0; // without image
 	}
 
 	$quote-width: 50%;
