@@ -1,7 +1,3 @@
-
-![Safraz's Avatar](https://avatars2.githubusercontent.com/u/3174706?v=3&s=100)
-
-
 Safraz Razik
 =================================
 
