@@ -123,6 +123,8 @@ body { // support any markdown processor
 
   /* Skills section */
   h6 + ul {
+    margin-bottom: 0.75rem;
+    margin-top: -0.75rem;
     $li-color-without-hash: "AAA";
     list-style-image: 
       url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 24 24"><path fill="none" d="M24 24H0V0h24v24z"/><circle fill="%23#{$li-color-without-hash}" cx="12" cy="12" r="8"/></svg>')
@@ -130,6 +132,10 @@ body { // support any markdown processor
     li > p {
     }
   }
+
+  // h5 + h6 + ul {
+  //   margin-top: -0.75rem;
+  // }
 
 
   /* background bar */
@@ -206,8 +212,17 @@ body { // support any markdown processor
       margin-top: -2.25rem;
     }
     // @include dates-on-right();
+    h6 + ul {
+      margin-top: 0;
+    }
     h5 + h6 + ul {
       margin-top: -0.75rem;
     }
+  }
+}
+
+@media print {
+  .powered-by {
+    display: none;
   }
 }
