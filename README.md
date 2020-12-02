@@ -1,23 +1,7 @@
-
-<!-- ![Safraz's Avatar](https://avatars2.githubusercontent.com/u/3174706?v=3&s=100) -->
-
-
 Safraz Razik
 =================================
 
-<!-- ####    Software Architect & Serial Entrepreneur -->
-
-<!-- **Inovative and dynamic** personality with 10 years of experience in both frontend and backend of various domains along with managing, mentoring and building tools for engineering teams and open source community. -->
-
-
 > <safrazik@zetmel.com> · [+94771188449](tel:+94771188449) · Puttalam, Sri Lanka.
-
-
-<!-- >  Puttalam, Sri Lanka. GMT+5:30 PST+12:30 CEST+3:30
->
->  Email: <safrazik@gmail.com> · Phone: [+94771188449](tel:+94771188449)
->
-> Skype: safrazik · [Github](https://github.com/safrazik) · [Twitter](https://twitter.com/safrazik) · [Linked In](https://www.linkedin.com/in/safrazik) -->
 
 
 ------------------------------------------
@@ -27,17 +11,15 @@ Safraz Razik
 ------------------------------------------
 
 
-#####   Founder, [Zetmel](https://zetmel.com)
+#####   Founder, Freelancer, [Zetmel](https://zetmel.com)
 
 ######  July 2018 - Present
 
-- Zetmel is an independent development agency with expertise in Reasearch and Development with a focus and priority in E-Commerce and Retail industry. We work with React Native, Electron, Vue, Framework7 (Vue), Quasar (Vue), Next JS (React), PHP and Arduino (C++)
+- Zetmel is the brand name under which I develop React Native, Vue, TypeScript, Electron and PHP projects.
 
-- Developed several projects including a social media platform within 3 months for a US client, a Call Center mobile app and it’s API within 3 months for a Europe client.
+- Developed several projects including a social media platform for a US client, a Call Center mobile app and it's API for a Europe client and numerous developer tools, frameworks, libraries and made few of them open source.
 
-- Developed several developer tools, frameworks, libraries and made few of them open source.
-
-- Developing our E-Commerce marketplace product with PHP/MySQL and React Native for mobile app, numerous embedded and IoT projects with Arduino - C++, C#, JavaScript
+- Developing some products including a retail Point of Sale and an E-Commerce marketplace with PHP/MySQL and React Native for mobile app.
 
 
 ------------------------------------------
@@ -115,7 +97,7 @@ Safraz Razik
 
 ------------------------------------------
 
-    SKILLS, EDUCATION & INTERESTS
+    SKILLS & INTERESTS
 
 ------------------------------------------
 
@@ -127,7 +109,7 @@ Safraz Razik
 
 ######  Frameworks
 
-- Vue JS, React Native, React JS, Next JS, Node JS, Electron, Framework7, Eloquent ORM, Symfony 2+, Doctrine 2, Angular 2+, Ionic 2+, jQuery, Bootstrap 2+, Laravel, CodeIgniter, Arudino
+- Vue JS, React Native, React JS, Next JS, Node JS, Electron, Framework7, Eloquent ORM, Symfony 2+, Doctrine 2, Angular 2+, Ionic 2+, jQuery, Bootstrap 2+, Laravel, CodeIgniter, Jekyll, Arudino
 
 
 ######  Others
@@ -138,19 +120,18 @@ Safraz Razik
 [Vue File Agent](https://github.com/safrazik/vue-file-agent),
 [Rockplate](https://rockplate.github.io),
 [sackets](https://npmjs.org/package/sackets),
-<!-- [Durandal Foundation](https://github.com/DurandalForge/durandal-foundation-starterkit),  -->
 [Cylinder](https://github.com/safrazik/cylinder),
-<!-- [durandal.forge](https://github.com/DurandalForge/durandal.forge.starterkit), -->
 [UMLXport](https://github.com/adrotec/umlxport),
 [breeze.server.php](https://github.com/adrotec/breeze.server.php),
 [knockout-file-bindings](https://github.com/adrotec/knockout-file-bindings),
-[knockout-date-bindings](https://github.com/adrotec/knockout-date-bindings),
-[breeze.koES5](https://github.com/adrotec/breeze.koES5),
-[breeze.sugar](https://github.com/adrotec/breeze.sugar),
+<!-- [knockout-date-bindings](https://github.com/adrotec/knockout-date-bindings), -->
+<!-- [breeze.koES5](https://github.com/adrotec/breeze.koES5), -->
+<!-- [breeze.sugar](https://github.com/adrotec/breeze.sugar), -->
 <!-- [durandal.forge](https://github.com/DurandalForge/durandal.forge.starterkit), -->
 [durandal.punches](https://github.com/DurandalForge/durandal.punches),
-<!-- [mimosa-esnext](https://github.com/safrazik/mimosa-esnext), -->
-[**this resume!**](https://github.com/safrazik/resume)
+[Durandal Foundation](https://github.com/DurandalForge/durandal-foundation-starterkit),
+[**this resume!**](https://github.com/safrazik/resume) · 
+[GitHub Profile](https://github.com/safrazik)
 
 
 
@@ -175,24 +156,5 @@ Safraz Razik
 
 - **Key Modules** - Advanced Database Management Systems, Software Engineering, Programming Paradigms, Web Engineering
 
-<!-- --
 
-------------------------------------------
-
-
-#####   PHP/MySQL Web Development Weekend Programme, SLIIT (Sri Lanka Institute of Information Technology)
-
-######  May 2010 - Sep 2010
-
-- 14 Weeks (56 Hours)
-
-
-------------------------------------------
-
-
-#####   Sun Certified Programmer for Java 5
-
-######  May 2010
-
--- -->
 
