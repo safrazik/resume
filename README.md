@@ -3,7 +3,7 @@ Safraz Razik
 
 > <safrazik@zetmel.com> · [+94771188449](tel:+94771188449) · Puttalam, Sri Lanka.
 
-
+ 
 ------------------------------------------
 
     EXPERIENCE
