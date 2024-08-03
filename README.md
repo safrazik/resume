@@ -33,8 +33,6 @@ Safraz Razik
 
 - Developed several projects including a social media platform for a US client, a Call Center mobile app and it's API for a Europe client and numerous developer tools, frameworks, libraries and made few of them open source.
 
-- Developing some products including a retail Point of Sale and an E-Commerce marketplace with PHP/MySQL and React Native for mobile app.
-
 
 ------------------------------------------
 
