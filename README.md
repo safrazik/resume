@@ -19,7 +19,7 @@ Safraz Razik
 
 - Developed improvements and addressed complex issues which required technical expertise and analysis
 
-- Achieved the "Sprint Champion" award for leading and taking responsibility in bringing Bundle SKU feature live on the strorefront.
+- Achieved the "Sprint Champion" award for leading and taking responsibility in bringing Bundle SKU feature live on the storefront.
 
 
 ------------------------------------------
@@ -54,7 +54,7 @@ Safraz Razik
 
 - Was hired when they planned to develop web and mobile versions for their mature Java powered healthcare product(s).
 
-- Adviced them to use TypeScript and Angular 2/Ionic 2 for development after researching about the company and existing technologies. Mentored the team remotely during the startup of development.
+- Advised them to use TypeScript and Angular 2/Ionic 2 for development after researching about the company and existing technologies. Mentored the team remotely during the startup of development.
 
 ------------------------------------------
 
