@@ -1,9 +1,9 @@
 Safraz Razik
 =================================
 
-> <safrazik@gmail.com> · [+94771188449](tel:+94771188449) · Sri Lanka.
+> <safrazik@gmail.com> · [+94771188449](tel:+94771188449) · [linkedin.com/in/safrazik](https://www.linkedin.com/in/safrazik/) · Sri Lanka.
 
- 
+
 ------------------------------------------
 
     EXPERIENCE
@@ -11,15 +11,15 @@ Safraz Razik
 ------------------------------------------
 
 
-#####   Senior Frontend Engineer, [Motorola Solutions](https://shop.motorolasolutions.com)
+#####   Senior Frontend Engineer (Remote), [Motorola Solutions](https://shop.motorolasolutions.com)
 
 ######  Jun 2021 - Jan 2024
 
-- Worked on migration of Knockout based classic Oracle Commerce Cloud store front to React based new/modern Oracle Storefront Framework.
+- Worked on migrating the Knockout.js-based legacy Oracle Commerce Cloud storefront to the modern React-based Oracle Storefront Framework, enhancing performance and user experience.
 
 - Developed improvements and addressed complex issues which required technical expertise and analysis
 
-- Achieved the "Sprint Champion" award for leading and taking responsibility in bringing Bundle SKU feature live on the storefront.
+- Achieved the "Sprint Champion" award for taking ownership and successfully leading the launch of the Bundle SKU feature on the storefront.
 
 
 ------------------------------------------
@@ -27,11 +27,11 @@ Safraz Razik
 
 #####   Founder, Freelancer, [Zetmel](https://zetmel.com)
 
-######  Jul 2018 - Present
+######  Jul 2018 - May 2021
 
-- Zetmel is the brand name under which I develop React Native, Vue, TypeScript, Electron and PHP projects.
+-  Zetmel is the brand under which I have developed projects using React Native, Vue, TypeScript, Electron, and PHP.
 
-- Developed several projects including a social media platform for a US client, a Call Center mobile app and it's API for a Europe client and numerous developer tools, frameworks, libraries and made few of them open source.
+- Successfully delivered various projects, including a social media platform for a U.S. client, a Call Center mobile app with its API for a European client, and an E-Commerce marketplace. Additionally, I have created multiple developer tools, frameworks, and libraries, with several released as open-source contributions.
 
 
 ------------------------------------------
@@ -41,7 +41,7 @@ Safraz Razik
 
 ######  2016 Feb - Jul 2018
 
-- Developed adsfly.lk - a classified website for local markets with Symfony 2. Developed a Freelance Mobile app for local markets with Ionic 2, a Credit Payment Management mobile app with Framework7 Vue, adsflyPOS - a web based POS for local markets.
+- Developed adsfly.lk - a classified website for local markets with Symfony 2. Developed a Freelance Mobile app for local markets with Ionic 2, a Credit Payment Management mobile app with Framework7 Vue and a web based Point of Sale for local markets.
 
 ------------------------------------------
 
@@ -50,9 +50,9 @@ Safraz Razik
 
 ######  Oct 2016 - Dec 2016 (Part-Time)
 
-- Was hired when they planned to develop web and mobile versions for their mature Java powered healthcare product(s).
+- Joined the team to lead the development of web and mobile versions for their established Java-based healthcare products.
 
-- Advised them to use TypeScript and Angular 2/Ionic 2 for development after researching about the company and existing technologies. Mentored the team remotely during the startup of development.
+- After researching the company's existing technology stack, I recommended using TypeScript with Angular/Ionic  for a more scalable and maintainable solution. Provided remote mentorship to the development team during the initial stages of the project.
 
 ------------------------------------------
 
@@ -62,7 +62,7 @@ Safraz Razik
 ######  Jun 2015 - Dec 2015
 
 
-- Mentored the team on Node JS, JavaScript and TypeScript. Involved in the development of a few projects.
+- Provided mentorship on Node.js, JavaScript, and TypeScript, while actively contributing to the development of a custom software solution.
 
 
 ------------------------------------------
@@ -73,11 +73,11 @@ Safraz Razik
 ######  Mar 2013 - May 2015
 
 
-- Interviewed, recruited and trained/mentored engineers and designers while developing and taking technology related decisions.
+- Interviewed, recruited, and trained engineers and designers while making technology decisions.
 
-- Led development of an ERP for colleges, a Restaurant POS, a custom ERP for merchants, a Complaint Management system, etc.
+- Led development of various software solutions including an ERP for colleges and a Restaurant POS system.
 
-- Created developer tools, frameworks, libraries that were used by the company and made few of them open source.
+- Created developer tools and open-source libraries to enhance company efficiency and productivity.
 
 
 ------------------------------------------
@@ -88,9 +88,9 @@ Safraz Razik
 ######  Jun 2012 - Jan 2013
 
 
-- Guided and helped developers and designers with their projects while working on mine. Introduced Twitter Bootstrap (v2) and Yii (v1) Framework to make the development easy.
+- Guided and supported developers and designers on projects, introducing Twitter Bootstrap and Yii Framework for efficient development.
 
-- Developed a tool for project quoting and ordering, a classifieds website and a job portal. Developed a full featured PHP 5.2+ MVC framework with built in CRUD generator with validation, code generation and ActiveRecord. It was used by the company for internal and client projects.
+- Developed a project quoting tool, a classifieds website, and a job portal. Implemented a full-featured framework used for internal and client projects at the company.
 
 
 ------------------------------------------
@@ -101,9 +101,9 @@ Safraz Razik
 ######  Mar 2011 - Apr 2012
 
 
-- Even though I was introduced as a trainee, I was identified as an extraordinary programmer and designer within three months and was found helping others with their issues.
+-  Excelled as a trainee turned extraordinary programmer and designer, assisting colleagues with various projects.
 
-- Developed a PDF catalog generating tool, a static site generator, a simple blog engine, a PDF invoice creating tool, a web scraping tool and several small projects. Developed a web scraping tool that was used by the company. 
+- Developed innovative tools such as a PDF catalog generator, static site generator, and web scraping tool.
 
 
 ------------------------------------------
@@ -115,27 +115,28 @@ Safraz Razik
 
 ######  Languages
 
-- **Expert in** - JavaScript/TypeScript/ES6, PHP, HTML5, CSS3, SASS, LESS, SQL
+- **Expert in** - JavaScript/TypeScript, PHP, HTML5, CSS3, SASS, LESS, SQL
 
 - **Proficient in** - Java, C#, C++ (Arduino), Mongo DB, Sqlite
 
 ######  Frameworks & Tools
 
-- Vue JS, React Native, React JS, Next JS, Node JS, Oracle Commerce Cloud (OCC), Material UI (React), Electron, Framework7, Eloquent ORM, Symfony 2+, Doctrine 2, Angular 2+, Ionic 2+, jQuery, Bootstrap, Laravel, CodeIgniter, Jekyll, Arduino
+- Vue JS, React Native, React JS, Next JS, Node JS, Oracle Commerce Cloud (OCC), Material UI (React), Electron, Express JS, Framework7, Eloquent ORM, Symfony, Doctrine, Angular, Ionic, jQuery, Bootstrap, Laravel, CodeIgniter, Jekyll, Arduino
 
 - **Past Experience** - Durandal JS, Knockout JS, Breeze JS, Require JS, Foundation Framework, ASP.NET MVC 5, Yii (PHP), WordPress
 
 - **Open Source Creations** -
-[Vue File Agent](https://github.com/safrazik/vue-file-agent),
-[Rockplate](https://rockplate.github.io),
-[sackets](https://npmjs.org/package/sackets),
+[Vue File Agent](https://safrazik.github.io/vue-file-agent/),
+[Rockplate](https://rockplate.github.io)
+-
+<!-- [sackets](https://npmjs.org/package/sackets),
 [Cylinder](https://github.com/safrazik/cylinder),
 [UMLXport](https://github.com/adrotec/umlxport),
 [breeze.server.php](https://github.com/adrotec/breeze.server.php),
 [knockout-file-bindings](https://github.com/adrotec/knockout-file-bindings),
 [durandal.punches](https://github.com/DurandalForge/durandal.punches),
-[Durandal Foundation](https://github.com/DurandalForge/durandal-foundation-starterkit),
-[**this resume!**](https://github.com/safrazik/resume) · 
+[Durandal Foundation](https://safrazik.github.io/durandal-foundation-starterkit/),
+[**this resume!**](https://github.com/safrazik/resume) ·  -->
 [GitHub Profile](https://github.com/safrazik)
 
 
