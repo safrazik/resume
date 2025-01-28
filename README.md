@@ -13,7 +13,7 @@ Safraz Razik
 
 #####   Senior Frontend Engineer (Remote), [Motorola Solutions](https://shop.motorolasolutions.com)
 
-######  Jun 2021 - Jan 2024
+######  Jun 2021 - Jan 2025
 
 - Worked on migrating the Knockout.js-based legacy Oracle Commerce Cloud storefront to the modern React-based Oracle Storefront Framework, enhancing performance and user experience.
 
